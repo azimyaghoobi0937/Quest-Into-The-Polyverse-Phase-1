@@ -55,7 +55,7 @@ You are good to start building!
 
 - **Development Resources:** Jumpstart your project with our comprehensive [developer documentation](https://docs.polymerlabs.org/), especially if you plan to interact with testnet contracts. These resources are designed to guide you through the initial setup and development stages.
 - **Developer Lounge:** Join our [discord community](https://discord.gg/ndQCuHDS87) to hangout with fellow developers and connect with the team to make sure you are up and running in the Polyverse. 
-- **Community and Support:** For any development-related queries, head over to our [developer forum](https://forum.polymerlabs.org/). The Polymer Labs team and the Polymer developer community are there to assist you, ensuring help is always at hand when you need it.
+- **Community and Support:** For any development-related queries, head over to our [developer forum](https://forum.polymerlabs.org/). The Polymer Labs team and the Polymer developer community are there to assist you, ensuring help is always at hand when you need it. 
 
 **Note:** Regular updates and check-ins can enhance your Polyverse experience. Keep an eye on [announcements](https://twitter.com/Polymer_Labs) and utilize the forums for collaboration and support.
 
